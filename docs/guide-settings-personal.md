@@ -36,7 +36,7 @@ the objects in the repository view.
 If you are using ABAP Development Tools (ADT) in Eclipse, we recommend to turn on "Enable Jump to ABAP Development Tools". Clicking on objects names in abapGit will then
 open the object in ADT (if available).
 
-"Enable Vimium-like Link Hints" and "Key to Activate Link Hints" provide a feature similarly to the [Vimium browser](https://vimium.github.io/). After pressing the
+"Enable Vimium-like Link Hints" and "Key to Activate Link Hints" provide a feature similarly to the [Vimium browser](https://narkive.com/kST2vlx8:2.1074.6://narkive.com/kST2vlx8:2.1074.6://vimium.github.io/). After pressing the
 activation key (default "f"), abapGit will uses a clever highlighting method to navigate using links.
 
 ![](img/settings-personal-3.png)
